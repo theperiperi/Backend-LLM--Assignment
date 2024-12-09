@@ -1,6 +1,3 @@
-Here's a comprehensive README.md for the Content Engine repository:
-
-```markdown
 # Content Engine - 10-K Document Analysis
 
 A powerful document analysis system that uses local LLMs and embeddings to analyze and compare Form 10-K filings. Built with privacy-first approach using fully local models.
@@ -53,8 +50,7 @@ content-engine/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/content-engine.git
-cd content-engine
+git clone https://github.com/theperiperi/Backend-LLM--Assignment
 ```
 
 2. Create a virtual environment:
